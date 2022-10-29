@@ -50,6 +50,8 @@ For more information can check [Markdown Design Guide](https://gist.github.com/J
 
 * *git merge* - merge branches
 
+gfgh
+
 ## Third lesson
 
 * *secret* - non info
