@@ -59,3 +59,5 @@ For more information can check [Markdown Design Guide](https://gist.github.com/J
 # Homework lesson 2
 
 First very important text :)
+
+Very important second text
