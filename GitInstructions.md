@@ -46,6 +46,8 @@ For more information can check [Markdown Design Guide](https://gist.github.com/J
 
 * *git branch* - list of actual branches
 
+* *git branch branch_name* - add new branch
+
 ## Third lesson
 
 
