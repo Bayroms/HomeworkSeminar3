@@ -65,3 +65,9 @@ Very important second text
 Third less important text
 
 Fourth of May is the day "May the force be with you"
+
+## My remote repository tutorial
+
+* *git push* - send changes to remote repository
+
+* *git pull* - get changes from remote repository
