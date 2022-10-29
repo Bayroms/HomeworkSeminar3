@@ -55,3 +55,5 @@ For more information can check [Markdown Design Guide](https://gist.github.com/J
 ## Third lesson
 
 * *secret* - non info
+
+Very important second text
