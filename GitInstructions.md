@@ -44,7 +44,7 @@ For more information can check [Markdown Design Guide](https://gist.github.com/J
 
 ## Second lesson
 
-
+* *git branch* - list of actual branches
 
 ## Third lesson
 
