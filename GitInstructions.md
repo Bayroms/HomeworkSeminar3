@@ -2,7 +2,9 @@
 
 ![VSCode logo](https://miro.medium.com/max/640/1*MGcLJS1ZvMFcBA94PXn16Q.png)
 
-## Main commands 
+## First lesson
+
+### Main commands 
 
 * *git init* - creates a new Git repository
 
@@ -20,9 +22,9 @@
 
 For more information can check [Pro Git book](https://git-scm.com/book/en/v2) .
 
-## Markdown language syntax 
+### Markdown language syntax 
 
-### Symbols on word each side 
+#### Symbols on word each side 
 
 Symbol ** - fat
 
@@ -30,7 +32,7 @@ Symbol * - italics
 
 Symbol ~~ - strikethrough
 
-### Symbols at the beginning of the line
+#### Symbols at the beginning of the line
 
 Symbol # - header
 
@@ -39,5 +41,11 @@ Number 1,2,3,etc.. - numbered list
 Symbol * - unordered list
 
 For more information can check [Markdown Design Guide](https://gist.github.com/Jekins/2bf2d0638163f1294637) .
+
+## Second lesson
+
+
+
+## Third lesson
 
 
